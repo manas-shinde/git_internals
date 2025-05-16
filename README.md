@@ -1,5 +1,7 @@
 # Git Demystified
 
+<video src="./git-internal-demo-video.mp4" controls></video>
+
 Unlock the mysteries of Git with this comprehensive repository! Dive deep into the internals of Git, understand the structure of the `.git` directory, explore essential Git commands, and discover advanced concepts such as hooks, plumbing, and more.
 
 🚀 **Key Features:**
@@ -69,6 +71,8 @@ Scripts executed before/after events (commit, push, etc.).
 - tree: Pointers to file names, contents & other trees.
 - commit: Tree of changes with metadata (author, commit message, etc.).
 - tag: For annotated tags with hash of tagged object (usually commits).
+
+![git object types](./Git%20Internals%20Explained.png "a title")
 
 ## Git References
 
