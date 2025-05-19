@@ -1,6 +1,6 @@
 # Git Demystified
 
-<video src="./git-internal-demo-video.mp4" controls></video>
+[<video src="./git-internal-demo-video.mp4" controls></video>](https://github.com/manas-shinde/git_internals/blob/main/git-internal-demo-video.mp4)
 
 Unlock the mysteries of Git with this comprehensive repository! Dive deep into the internals of Git, understand the structure of the `.git` directory, explore essential Git commands, and discover advanced concepts such as hooks, plumbing, and more.
 
